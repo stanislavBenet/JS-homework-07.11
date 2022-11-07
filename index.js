@@ -7,18 +7,10 @@ console.log(oneNumber*twoNumber);
 console.log(oneNumber%twoNumber);
 
 let number = 0;
-console.log(number);
 number =+6;
-console.log(number);
 number++;
-console.log(number);
 number /=2;
-console.log(number);
 number =-3;
-console.log(number);
 number--;
-console.log(number);
 number %= 2;
-console.log(number);
 number =+'qwerty';
-console.log(number);
